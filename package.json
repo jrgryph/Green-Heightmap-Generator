@@ -1,0 +1,11 @@
+{
+  "name": "green-heightmap-generator",
+  "version": "1.0.0",
+  "main": "castle-story-map.js",
+  "type": "commonjs",
+  "dependencies": {
+    "alea": "^1.0.1",
+    "pngjs": "^7.0.0",
+    "simplex-noise": "^4.0.3"
+  }
+}
